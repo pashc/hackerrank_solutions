@@ -9,7 +9,7 @@ def jumping_on_clouds(n, c):
     _jumps = 0
     _index = 0
     while _index < n - 1:
-        if c.get(_index + 2) != 1:
+        if _index < n - 2 and c[_index + 2] != 1:
             _index += 1
         _index += 1
         _jumps += 1
