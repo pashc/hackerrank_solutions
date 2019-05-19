@@ -1,9 +1,9 @@
 from unittest import TestCase
 
-from . import hourglass_sum as testee
+from . import two_d_array_ds as testee
 
 
-class TestHourglassSum(TestCase):
+class TestTwoDArrayDs(TestCase):
 
     def test_1(self):
         arr = [[1, 1, 1, 0, 0, 0],

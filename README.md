@@ -18,5 +18,5 @@ This repository contains my personal solutions for the hackerrank challenges.
 
 | Challenge | Solution |
 |:---------:|:--------:|
-| [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)   |    [repeated_string.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/arrays/hourglass/hourglass.py)      |
-| [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)   |    [repeated_string.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/arrays/left_rotation/left_rotation.py)      |
+| [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)   |    [two_d_array_ds.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/arrays/two_d_array_ds/two_d_array_ds.py)      |
+| [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)   |    [left_rotation.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/arrays/left_rotation/left_rotation.py)      |
