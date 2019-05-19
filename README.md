@@ -20,3 +20,4 @@ This repository contains my personal solutions for the hackerrank challenges.
 |:---------:|:--------:|
 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)   |    [two_d_array_ds.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/arrays/two_d_array_ds/two_d_array_ds.py)      |
 | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)   |    [left_rotation.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/arrays/left_rotation/left_rotation.py)      |
+| [New Years Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem)   |    [new_year_chaos.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/arrays/new_year_chaos/new_year_chaos.py)      |
