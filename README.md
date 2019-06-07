@@ -23,3 +23,9 @@ This repository contains my personal solutions for the hackerrank challenges.
 | [New Years Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem)   |    [new_year_chaos.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/arrays/new_year_chaos/new_year_chaos.py)      |
 | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)   |    [minimum_swap_2.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/arrays/minimum_swaps_2/minimum_swaps_2.py)      |
 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)   |    [array_manipulation.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/arrays/array_manipulation/array_manipulation.py)      |
+
+#### Dictionaries and Hashmaps
+
+| Challenge | Solution |
+|:---------:|:--------:|
+| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)   |    [check_magazine.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/dictionaries_and_hashmaps/hash_tables_ransom_note/check_magazine.py)      |
