@@ -30,3 +30,4 @@ This repository contains my personal solutions for the hackerrank challenges.
 |:---------:|:--------:|
 | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)   |    [check_magazine.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/dictionaries_and_hashmaps/hash_tables_ransom_note/check_magazine.py)      |
 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)   |    [two_strings.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/dictionaries_and_hashmaps/two_strings/two_strings.py)      |
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)   |    [balanced_brackets.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/stacks_and_queues/balanced_brakckets/balanced_brackets.py)      |
