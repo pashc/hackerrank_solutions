@@ -34,5 +34,5 @@ This repository contains my personal solutions for the hackerrank challenges.
 #### Stacks and Queues
 | Challenge | Solution |
 |:---------:|:--------:|
-| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)   |    [balanced_brackets.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/stacks_and_queues/balanced_brakckets/balanced_brackets.py)      |
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)   |    [balanced_brackets.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/stacks_and_queues/balanced_brackets/balanced_brackets.py)      |
 | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem)   |    [queues_a_tale_of_two_stacks.py](https://github.com/pashc/hackerrank_interview_preparation_solutions/blob/master/interview_preparation_kit/stacks_and_queues/queues_a_tale_of_two_stacks/queues_a_tale_of_two_stacks.py)      |
